@@ -1,0 +1,5 @@
+# Full upstream rPPG-Toolbox requirements, including PhysMamba dependencies.
+#
+# On Windows, prefer WSL/Linux for this profile. If installing manually, install
+# a compatible torch/torchvision build first, then this file.
+-r rPPG-Toolbox/requirements.txt

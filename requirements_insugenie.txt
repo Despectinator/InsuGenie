@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+opencv-contrib-python<5.0.0
+mediapipe
+numpy
+torch
+torchvision
+pandas
+matplotlib
+scikit-learn
+pydantic

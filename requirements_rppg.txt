@@ -1,0 +1,7 @@
+# Windows-friendly rPPG-Toolbox install.
+#
+# The upstream requirements include causal-conv1d and mamba-ssm for PhysMamba.
+# Those packages import/build against torch during installation and are not a
+# reliable native-Windows install path. Use requirements_rppg_full.txt from WSL
+# or Linux if you specifically need PhysMamba.
+-r requirements_rppg_windows.txt

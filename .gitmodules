@@ -1,0 +1,3 @@
+[submodule "rPPG-Toolbox"]
+	path = rPPG-Toolbox
+	url = https://github.com/ubicomplab/rPPG-Toolbox.git
